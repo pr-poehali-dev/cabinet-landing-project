@@ -47,9 +47,9 @@ const Index = () => {
             </div>
             <div className="rounded-2xl h-96 overflow-hidden shadow-lg">
               <img 
-                src="/img/88c400ac-fac3-4dda-8332-fe85d468b424.jpg" 
+                src="https://cdn.poehali.dev/files/bd2ccc41-248d-400d-beae-2abf2416f9ac.jpg" 
                 alt="Тумба ЛДСП с 3 ящиками"
-                className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                className="w-full h-full object-contain hover:scale-105 transition-transform duration-300"
               />
             </div>
           </div>
